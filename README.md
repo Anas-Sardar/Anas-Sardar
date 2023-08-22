@@ -1,9 +1,9 @@
-<img class="centered-image" alt="Coding" width="1010" height="200" src="https://www.acldigital.com/sites/default/files/2021-01/Banner_5%20Reasons%20Why%20Your%20Business%20Needs%20to%20Adopt%20DevOps%20Now.jpg">
+<img class="centered-image" alt="Coding" width="1010" height="300" src="https://www.cloud4c.com/ksa/sites/ksa/files/2021-10/azure-devops-services.jpg">
 
 <h1 align="center">Hi 👋, I'm Anas Sardar</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif">
+<img align="right" alt="Coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-sardar&label=Profile%20views&color=0e75b6&style=flat" alt="anas-sardar" /> </p>
 
