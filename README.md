@@ -16,8 +16,7 @@
 - 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **anassardar259@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/121u5vWvq54IJOQK6N9qxUoxfef3lzSbI/view?usp=drive_link](https://drive.google.com/file/d/121u5vWvq54IJOQK6N9qxUoxfef3lzSbI/view?usp=drive_link)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
